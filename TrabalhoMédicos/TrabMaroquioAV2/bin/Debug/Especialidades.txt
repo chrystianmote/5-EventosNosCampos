@@ -1,0 +1,44 @@
+1|Acupuntura| método de tratamento chamado complementar de acordo com a nova terminologia da Organização Mundial da Saúde (OMS)
+2|Alergia e Imunologia| doenças alérgicas e do sistema imunitário
+3|Anestesiologia| estudo da dor e anestesia
+4|Angiologia| doenças do aparelho circulatório
+5|Cancerologia (oncologia)| tumores malignos ou câncer
+6|Cardiologia| doenças relacionadas com o coração
+7|Cirurgia Cardiovascular| tratamento cirúrgico de doenças do coração
+8|Cirurgia da Mão| tratamento cirúrgico das mãos
+9|Cirurgia de Cabeça e Pescoço| tratamento cirúrgico de doenças da cabeça e do pescoço
+10|Cirurgia do Aparelho Digestório| cirurgia dos órgãos do aparelho digestório, como esôfago, estômago, fígado e pâncreas
+11|Cirurgia Geral|  engloba todas as áreas cirúrgicas
+12|Cirurgia Pediátrica|- cirurgia geral em crianças
+13|Cirurgia Plástica| tratamento para correção das deformidades, má formação ou lesões que comprometem funções dos órgãos através de cirurgia de caráter reparador
+14|Cirurgia Torácica| cirurgia dos pulmões
+15|Cirurgia Vascular| tratamento das veias e artérias, através de cirurgia
+16|Clínica Médica|  engloba as áreas não cirurgicas, subdividida em várias outras especialidades
+17|Coloproctologia| problemas do intestino grosso (cólon), doenças do reto e ânus
+18|Dermatologia|  pele e suas doenças
+19|Endocrinologia e Metabologia|  tratamento das glândulas
+20|Endoscopia|  estudo dos mecanismo fisiopatológicos, diagnóstico e tratamento de enfermidades passíveis de abordagem por procedimentos cirúrgicos
+21|Gastroenterologia| tratamento do aparelho digestivo
+22|Genética médica|  estudo dos genes, células tronco e clonagem humana
+23|Geriatria|  estudo das doenças do idoso
+24|Ginecologia e Obstetrícia| sistema reprodutor feminino
+25|Hematologia e Hemoterapia| estudo dos elementos figurados do sangue (hemácias, leucócitos, plaquetas) e da produção desses elementos nos órgãos hematopoiéticos (medula óssea, baço, linfonódos)
+26|Homeopatia|  prática médica baseada na Lei dos Semelhantes
+27|Infectologia|  estudo das causas e tratamentos de infecções (causadas por vírus, bacterias e fungos)
+28|Mastologia|  doenças da mama
+29|Nefrologia|  doenças do rim, como insuficiência renal
+30|Neurocirurgia| atua no tratamento de doenças do sistema nervoso central e periférico passíveis de abordagem cirúrgica
+31|Neurologia|  estuda e trata o sistema nervoso
+32|Nutrologia|  distúrbios e doenças do comportamento alimentar
+33|Oftalmologia| estuda e trata os distúrbios dos olhos
+34|Ortopedia e Traumatologia| estuda e trata as doenças do sistema locomotor e as fraturas
+35|Otorrinolaringologia|  estuda e trata as doenças da orelha, nariz, seios paranasais, faringe e laringe
+36|Patologia|  estudo das doenças em geral sob determinados aspectos, envolvendo ciência básica e prática clínica
+37|Pediatria|  estuda e trata o ser em desenvolvimento (crianças)
+38|Neonatologia| ramo da Pediatria que estuda e cuida dos recém-nascidos, do nascimento até os 28 dias de idade
+39|Pneumologia|  estuda e trata o sistema respiratório
+40|Psiquiatria|  transtornos mentais e comportamentais
+41|Radiologia | realização e interpretação de exames de imagem como raio-X e Ressonância Magnética
+42|Radioterapia| tratamento empregado em várias doenças, especialmente o câncer, com uso de um tipo de raio X ou outra forma de energia radiante
+43|Reumatologia| trata das doenças do tecido conjuntivo, articulações e doenças autoimunes
+44|Urologia|  estuda e trata os problemas do sistema urinário e do sistema reprodutor masculino

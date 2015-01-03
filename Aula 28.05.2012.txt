@@ -1,0 +1,14 @@
+iconarchive.com
+
+Configurar txtNome:
+
+Accpets tab = aceitar Tab,
+Anchor = alinhar 
+auto complete customsource = customizar as coleções de sugestões de nome
+auto completeMode =Sugest
+
+NoptifyIcon(all WindowsForms) para colocar ícone na área de trabalho
+
+olhar eventos... hide oculta, show mostra click 
+
+contextMenu(botão direito)
